@@ -1,7 +1,7 @@
-# tobigs_2020_1
-Tobigs 2020-1 정규세션 과제
+# Tobigs 2020-1 basic lecture
+Tobigs 2020-1 assignment 
 
-* 1주차
+* Week1
   - git
   - preprocessing & EDA
 * Week2
