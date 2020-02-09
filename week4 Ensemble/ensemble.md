@@ -1,6 +1,7 @@
 ## introduction to ensemble
 
  ![bias_variacne](./image/1.jpg)
+ 
 **에러는 bias와 variance로 구성이 된다.**  
 **bias**는 실제 value와 예측 value와의 차이가 어느 정도되는 지 파악하는 데 사용된다.  
 high bias는 underfitting 되었음을 의미한다.  
