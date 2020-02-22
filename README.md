@@ -20,7 +20,7 @@ Tobigs 2020-1 assignment
   - Dimension Reduction | [PCA](https://github.com/hyo-eun-kim/tobigs_2020_1/blob/master/week5%20Dimension%20Reduction/week5_PCA_assignment_%EA%B9%80%ED%9A%A8%EC%9D%80.ipynb)
   - ML practice | [ML](https://github.com/hyo-eun-kim/tobigs_2020_1/blob/master/week5%20Practical%20ML/week5_ML_assignment_%EA%B9%80%ED%9A%A8%EC%9D%80.ipynb)
 * Week6
-  - Neural Network Basic 
+  - Neural Network Basic | [NN1](https://github.com/hyo-eun-kim/tobigs_2020_1/blob/master/week6%20NN/week6_NN_assignment2_%EA%B9%80%ED%9A%A8%EC%9D%80.ipynb) | [NN2](https://github.com/hyo-eun-kim/tobigs_2020_1/blob/master/week6%20NN/week6_NN_assignment3_%EA%B9%80%ED%9A%A8%EC%9D%80.ipynb)
   - Crawling | [Crawling](https://github.com/hyo-eun-kim/tobigs_2020_1/blob/master/week6%20Crawling/week6_Crawling_assignment_%EA%B9%80%ED%9A%A8%EC%9D%80.ipynb)
 * Week7
   - Neural Network Advanced
