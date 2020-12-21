@@ -26,7 +26,7 @@ Tobigs 2020-1 assignment
   - Neural Network Advanced
   - Framework | [Framework](https://github.com/hyo-eun-kim/Tobigs_2020_1/tree/master/week7%20NN_Framework)
 * Week8
-  - CNN basic
+  - CNN basic | [CNN](https://github.com/hyo-eun-kim/Tobigs_2020_1/tree/master/week8%20CNN%20basic)
   - NLP basic
   - Reinforcement Learning
 * Week9
