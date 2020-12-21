@@ -28,7 +28,7 @@ Tobigs 2020-1 assignment
 * Week8
   - CNN basic | [CNN](https://github.com/hyo-eun-kim/Tobigs_2020_1/tree/master/week8%20CNN%20basic)
   - NLP basic
-  - Reinforcement Learning
+  - Reinforcement Learning | [RL](https://github.com/hyo-eun-kim/Tobigs_2020_1/tree/master/week8%20RL)
 * Week9
   - CNN advanced
   - project setting
