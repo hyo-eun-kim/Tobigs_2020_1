@@ -24,7 +24,7 @@ Tobigs 2020-1 assignment
   - Crawling | [Crawling](https://github.com/hyo-eun-kim/tobigs_2020_1/blob/master/week6%20Crawling/week6_Crawling_assignment_%EA%B9%80%ED%9A%A8%EC%9D%80.ipynb)
 * Week7
   - Neural Network Advanced
-  - Framework
+  - Framework | [Framework](https://github.com/hyo-eun-kim/Tobigs_2020_1/tree/master/week7%20NN_Framework)
 * Week8
   - CNN basic
   - NLP basic
